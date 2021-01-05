@@ -63,6 +63,9 @@
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
 					<wtpContextName>spring3</wtpContextName>
+					<groupId>com.ncodeit</groupId>
+                                        <artifactId>ncodeit-hello-world</artifactId>
+                                        <version>${version}</version>
 				</configuration>
 			</plugin>
 			<plugin>

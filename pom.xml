@@ -4,7 +4,7 @@
 	<groupId>com.ncodeit</groupId>
 	<artifactId>ncodeit-hello-world</artifactId>
 	<packaging>war</packaging>
-	<version>${project.1.1}</version>
+	<version>${project.1}<version/>
 	<name>spring3 mvc maven</name>
 
 	<properties>

@@ -4,13 +4,14 @@
 	<groupId>com.ncodeit</groupId>
 	<artifactId>ncodeit-hello-world</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
+	<version>${revision}</version>
 	<name>spring3 mvc maven</name>
 
 	<properties>
 		<jdk.version>1.6</jdk.version>
 		<spring.version>3.2.13.RELEASE</spring.version>
 		<jstl.version>1.2</jstl.version>
+		<revision>1.0</revision>
 	</properties>
 
 	<dependencies>
